@@ -1,4 +1,4 @@
-<!-- Navigation -->---
+---
 layout: default
 img: ipad.png
 category: Services
